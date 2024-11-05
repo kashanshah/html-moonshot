@@ -1,0 +1,14 @@
+HTTrack3.49-2 launched on Sat, 02 Nov 2024 20:57:26 at https://doug.meme/
+(httrack https://doug.meme/ -O /Users/kashan/workspace/htdocs/doug.meme/httrack )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:57:43	Error: 	"Not Found" (404) at link https://doug.meme/node_modules/aos/dist/aos.css (from https://doug.meme/)
+20:57:43	Error: 	"Not Found" (404) at link https://doug.meme/images/atwork-white.webp (from https://doug.meme/)
+20:57:43	Error: 	"Not Found" (404) at link https://doug.meme/node_modules/aos/dist/aos.js (from https://doug.meme/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 17 links scanned, 13 files written (1653369 bytes overall) [1658607 bytes received at 97565 bytes/sec], 5.6 requests per connection
+(3 errors, 0 warnings, 0 messages)
